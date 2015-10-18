@@ -1,0 +1,12 @@
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Persistance\bin\Debug\PapaBob.Persistance.dll.config
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Persistance\bin\Debug\PapaBob.Persistance.dll
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Persistance\bin\Debug\PapaBob.Persistance.pdb
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Persistance\bin\Debug\EntityFramework.dll
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Persistance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Persistance\bin\Debug\EntityFramework.xml
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Persistance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Persistance\obj\Debug\PapaBob.Persistance.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Persistance\obj\Debug\PapaBob.Persistance.dll
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Persistance\obj\Debug\PapaBob.Persistance.pdb
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Persistance\bin\Debug\PapaBob.DTO.dll
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Persistance\bin\Debug\PapaBob.DTO.pdb

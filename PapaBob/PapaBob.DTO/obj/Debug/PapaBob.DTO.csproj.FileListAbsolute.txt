@@ -1,0 +1,5 @@
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.DTO\bin\Debug\PapaBob.DTO.dll
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.DTO\bin\Debug\PapaBob.DTO.pdb
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.DTO\obj\Debug\PapaBob.DTO.dll
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.DTO\obj\Debug\PapaBob.DTO.pdb
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.DTO\obj\Debug\PapaBob.DTO.csprojResolveAssemblyReference.cache

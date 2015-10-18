@@ -1,0 +1,11 @@
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Domain\obj\Debug\PapaBob.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Domain\bin\Debug\PapaBob.Domain.dll
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Domain\bin\Debug\PapaBob.Domain.pdb
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Domain\bin\Debug\PapaBob.Persistance.dll
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Domain\bin\Debug\PapaBob.Persistance.pdb
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Domain\obj\Debug\PapaBob.Domain.dll
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Domain\obj\Debug\PapaBob.Domain.pdb
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Domain\bin\Debug\PapaBob.DTO.dll
+C:\Users\Herman\Documents\Visual Studio 2013\Projects\PapaBob\PapaBob.Domain\bin\Debug\PapaBob.DTO.pdb
